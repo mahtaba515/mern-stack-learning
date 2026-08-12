@@ -1,0 +1,9 @@
+#head1{
+    text-align: center;
+    background-color: green;
+    backdrop-filter: blur(100px);
+}
+
+#car_image{
+    block-size: 190px;
+}
