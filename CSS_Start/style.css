@@ -1,0 +1,99 @@
+/* h2{
+    background-color: green;
+    color: yellow;
+} */
+
+
+
+/*.text{*/
+/*    background-color: red;*/
+/*    color: yellow;*/
+/*}*/
+
+/*.italic{*/
+/*    color: blue;*/
+/*}*/
+
+/*#bhai{*/
+/*    color: green;*/
+/*    background-color: pink;*/
+/*}*/
+
+
+/*p{*/
+/*    !*text-decoration-line: underline;*!*/
+/*    !*text-decoration-style: double;*!*/
+/*    */
+/*    text-shadow: red 10px 10px 10px ;*/
+/*} */
+
+
+/*Color Representations*/
+/* p{
+    /* background-color: rgba(89,90,170,.8); */
+    /* background-color: #df4144; */
+/* } */ 
+
+
+
+
+/* #bg{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(169, 31, 31);
+} */
+
+/* Box Model & Layout */
+/* Box Properties */
+
+/* #card{
+    width: 200px;
+    height: 300px;
+    padding: 40px;
+    background-color: red;
+    color: white;
+    box-sizing: border-box;
+    
+} */
+
+/* Borders  */
+
+/* p{
+    padding: 20px;
+    border-width: 2px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 30px;
+} */
+
+
+/* Background & Shadows */
+/* Background Properties */
+
+/* .bg{
+    width: 300px;
+    height: 150px;
+    background-image: url(https://images.unsplash.com/photo-1786813478692-b6df54dc3f6c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+
+
+} */
+
+
+/* .bg{
+    width: 300px;
+    height: 150px;
+    background: linear-gradient(to right bottom, red, yellow, purple);
+} */
+
+
+
+/* Shadow Effects */
+
+.bg{
+    width: 300px;
+    height: 150px;
+    box-shadow: 10px 20px 40px red;
+    text-shadow: ;
+}
